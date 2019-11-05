@@ -6,6 +6,7 @@ public class DanangIA {
 		// TODO Auto-generated method stub
 		System.out.println("Danang versi 3");
 		System.out.println("Ada Pull gak");
+		System.out.println("Ini Ada Update");
 	}
 
 }
